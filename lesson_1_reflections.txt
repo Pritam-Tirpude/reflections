@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+>>>> For tracking the files and directories, I have to initialize the current repository that I want to work with, so that git can track files.
