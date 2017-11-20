@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 >> wants to share his/her  project with others than who wants to contribute to  that project can fork his/her project directly on GitHub
 >> cloneing the project in git is the same as fork in GitHub, we can work offline after cloning the project on our computer same as fork
 >> Branching makes easier to track changes on another branch rather than on our officuial branch
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+>>>>
